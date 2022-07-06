@@ -23,7 +23,7 @@ npm run package
 
 npm run build
 
-App in Electron ,React and Mongodb . 
+App in Electron ,React & Mongodb. 
 
 
 running App will look like :--
